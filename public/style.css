@@ -1,18 +1,20 @@
 body {
-background-color: mediumaquamarine;
-
-}
-
-h1 {
-color: blue;
+background-color: lightslategrey;
 height: 90px;
   line-height: 90px;
   text-align: center;
   border: 2px dashed #white;
+}
 
+h1 {
+color: floralwhite;
+height: 90px;
+  line-height: 90px;
+  text-align: center;
+  border: 2px dashed #white;
 }
 
 img {
-    width: 350px;
-    height: 300px;
+    width: 300px;
+    height: 250px;
 }
