@@ -1,0 +1,18 @@
+body {
+background-color: mediumaquamarine;
+
+}
+
+h1 {
+color: blue;
+height: 90px;
+  line-height: 90px;
+  text-align: center;
+  border: 2px dashed #white;
+
+}
+
+img {
+    width: 350px;
+    height: 300px;
+}
